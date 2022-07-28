@@ -1,0 +1,15 @@
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+}
+.carousel-caption{
+    bottom: 220px;
+}
+.carousel-caption h5{
+    font-size: 60px;
+    font-weight: 700;
+}
+.carousel-caption p{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
