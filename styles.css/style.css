@@ -13,3 +13,33 @@
     font-size: 20px;
     padding-bottom: 20px;
 }
+.text-title h5{
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+}
+.text-title p{
+    font-size:20px ;
+    text-align: center;
+}
+/* -------coures part start------*/
+.couress{
+    display: grid;
+    grid-template-columns: repeat(2, 3fr);
+    grid-column-gap:20px;
+    grid-row-gap:20px;
+
+}
+.course{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+.coures-info h3{
+    font-weight: 700;
+}
+.btn{
+    font-weight: 600;
+    padding: 10px;
+    font-size: 15px;
+}
